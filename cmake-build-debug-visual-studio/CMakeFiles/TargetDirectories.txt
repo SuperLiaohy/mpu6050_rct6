@@ -1,0 +1,3 @@
+D:/dian_sai/mpu6050/cmake-build-debug-visual-studio/CMakeFiles/mpu6050.elf.dir
+D:/dian_sai/mpu6050/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+D:/dian_sai/mpu6050/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
